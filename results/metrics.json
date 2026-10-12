@@ -1,0 +1,8 @@
+{
+  "samples": 25,
+  "mean_iou": 1.0,
+  "mean_dice": 1.0,
+  "threshold": 175,
+  "best_sweep_threshold": 150,
+  "data": "deterministic synthetic grayscale surfaces"
+}
